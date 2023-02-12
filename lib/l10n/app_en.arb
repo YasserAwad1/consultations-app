@@ -1,0 +1,46 @@
+{
+  "welcomeText" : "Hi welcome",
+  "@welcomeText" :{
+      "description": "this is a welcome text"
+  },
+  "home" : "Home",
+  "@home" :{
+      "description": "for home screen"
+  },
+   "search" : "Search",
+  "@search" :{
+      "description": "none"
+  },
+    "favorites" : "Favorites",
+  "@favorites" :{
+      "description": "none"
+  },
+    "settings" : "Settings",
+  "@settings" :{
+      "description": "none"
+  },
+    "application" : "Application",
+  "@app" :{
+      "description": "none"
+  },
+  "language" : "Language",
+  "@language" :{
+      "description": "none"
+  },
+    "arabic" : "Arabic",
+  "@arabic" :{
+      "description": "none"
+  },
+  "english" : "English",
+  "@english" :{
+      "description": "none"
+  },
+    "logout" : "Logout",
+  "@logout" :{
+      "description": "none"
+  },
+    "currency" : "SYP",
+  "@currency" :{
+      "description": "none"
+  }
+}

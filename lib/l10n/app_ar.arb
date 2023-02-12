@@ -1,0 +1,13 @@
+{
+  "welcomeText" : "نص الترحيب",
+  "home" : "الرئيسية",
+  "search" : "البحث",
+  "favorites" : "المفضّل",
+  "settings" : "الإعدادات",
+  "application" : "التطبيق",
+  "language" : "اللغة",
+  "arabic" : "Arabic",
+  "english" : "English",
+  "logout" : "تسجيل خروج",
+  "currency" : "ل.س "
+}
